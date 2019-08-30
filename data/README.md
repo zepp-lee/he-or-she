@@ -1,0 +1,1 @@
+Data directory (e.g. for storing scraping results)
