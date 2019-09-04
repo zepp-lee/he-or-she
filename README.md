@@ -1,6 +1,6 @@
 # He or She?
 
-This repository accompanies a blog post available at: https://seble.info/?p=82
+This repository accompanies a blog post available at: https://posts.seble.info/he-or-she-or-the-basics-of-binary-classifier-evaluation/
 
 ## Getting started
 
